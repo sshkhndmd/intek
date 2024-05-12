@@ -18,8 +18,10 @@ html, body {
     background-color: #194DD2;
 
 }
-.menu{
+.menu {
     width: 1452px;
+    display: flex;
+    justify-content: space-between;
 }
 .black-header{
     height: 117px;
