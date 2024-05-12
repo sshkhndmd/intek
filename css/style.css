@@ -7,18 +7,27 @@ html, body {
     height: 100%;
     width: 100%;
 }
-.container header-menu{
+.container{
     min-width: 1920px;
-    display: inline-block;
-    
+    /*display:flex;*/
+    display: inline-flex;
 }
 .button-header{
     height: 904px;
     width: 468px;
     background-color: #194DD2;
+
+}
+.menu{
+    width: 1452px;
 }
 .black-header{
     height: 117px;
     width: 1113px;
     background-color: #000000;
+}
+.blue-header{
+    height: 117px;
+    width: 339px;
+    background-color: #194DD2;
 }
